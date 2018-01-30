@@ -16,7 +16,7 @@ module.exports = {
       ],
     },
     curly: { serverity: 'error' },
-    index: [ true, 'space', 2 ],
+    indent: [ true, 'space', 2 ],
     'interface-over-type-literal': false,
     'max-line-length': false,
     'no-arg': false,
