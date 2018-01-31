@@ -4,6 +4,7 @@ module.exports = {
   defaultSeverity: 'warning',
   rules: {
     'array-type': [ true, 'array' ],
+    'arrow-parens': [ true, 'ban-single-arg-parens' ],
     'ban-types': {
       serverity: 'error',
       options: [

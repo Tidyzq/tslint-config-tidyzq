@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-tidyzq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tslint shareable config",
   "main": "index.js",
   "scripts": {
