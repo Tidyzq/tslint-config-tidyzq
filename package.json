@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-tidyzq",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "tslint shareable config",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "url": "https://github.com/Tidyzq/tslint-config-tidyzq/issues"
   },
   "homepage": "https://github.com/Tidyzq/tslint-config-tidyzq#readme",
-  "dependencies": {
-    "tslint": "^5.9.1"
+  "peerDependencies": {
+    "tslint": "5.9.1"
   }
 }
